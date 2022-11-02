@@ -4,7 +4,9 @@ I'm currently undertaking an intensive 12 week nology course.
 
 
 🔭 I’m currently working on a _nology React eShop project.
+
 🌱 I’m currently learning Java!
+
 ❤️ I really enjoy HTML & CSS.
 
 
