@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Jess! 
-I'm currently undertaking an intensive 12 week nology course. 
+I'm currently undertaking an intensive 12 week nology course. You can view my porfolio [here](https://xjessd.github.io/).
 
 
 🔭 I’m currently working on a _nology React eShop project.
