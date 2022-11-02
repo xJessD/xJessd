@@ -9,7 +9,7 @@ I'm currently undertaking an intensive 12 week nology course.
 
 ❤️ I really enjoy HTML & CSS.
 
-
+💬 Ask me about some anime and manga 📖
 <!--
 **xJessD/xJessd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
