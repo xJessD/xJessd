@@ -7,7 +7,7 @@ I'm currently undertaking an intensive 12 week nology course.
 
 🌱 I’m currently learning Java!
 
-❤️ I really enjoy HTML & CSS.
+❤️ I really enjoy HTML & CSS. And I might be a bit Android biased (hence my fakeOS project) 
 
 💬 Ask me about some anime and manga 📖
 <!--
