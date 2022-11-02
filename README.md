@@ -1,5 +1,11 @@
 ### Hi there 👋
 I'm Jess! 
+I'm currently undertaking an intensive 12 week nology course. 
+
+
+🔭 I’m currently working on a _nology React eShop project.
+🌱 I’m currently learning Java!
+❤️ I really enjoy HTML & CSS.
 
 
 <!--
@@ -7,8 +13,6 @@ I'm Jess!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
