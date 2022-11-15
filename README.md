@@ -1,13 +1,13 @@
 ### Hi there 👋
 I'm Jess! 
-I'm currently undertaking an intensive 12 week nology course. You can view my porfolio [here](https://xjessd.github.io/).
+I'm currently undertaking an intensive 12 week _nology course. You can view my [portfolio here](https://xjessd.github.io/).
 
 
-🔭 I’m currently working on a _nology React eShop project.
+🔭 I’m currently working on a _nology Java Console Monesweeper Game.
 
-🌱 I’m currently learning Java!
+🌱 I’m currently learning Java -> Spring!
 
-❤️ I really enjoy HTML & CSS. And I might be a bit Android biased (hence my fakeOS project) 
+❤️ I really enjoy HTML & CSS. And I might be a bit Android biased (hence my fakeOS project).
 
 💬 Ask me about some anime and manga 📖
 <!--
