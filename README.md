@@ -3,7 +3,7 @@ I'm Jess!
 I'm currently undertaking an intensive 12 week _nology course. You can view my [portfolio here](https://xjessd.github.io/).
 
 
-🔭 I’m currently working on a _nology Java Console Minesweeper Game.
+🔭 I’m currently working on a _nology [Java Console Minesweeper Game](https://github.com/xJessD/minesweeper).
 
 🌱 I’m currently learning Java -> Spring!
 
