@@ -1,19 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 I'm Jess! 
 I'm currently undertaking an intensive 12 week _nology course. You can view my [portfolio here](https://xjessd.github.io/).
 
 
-🔭 I’m currently working on a .
+🔭 I’m currently working on a learning management platform for my client project.
 
 🌱 I’m currently learning NestJS & Mikro-Orm!
 
-❤️ I really enjoy HTML & CSS. And I might be a bit Android biased (hence my fakeOS project).
+❤️ I really enjoy HTML & CSS. And I might be a bit Android biased (hence my [FakeOS](https://xjessd.github.io/fakeOS/) project).
 
 💬 Ask me about some anime and manga 📖
 
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **xJessD/xJessd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
