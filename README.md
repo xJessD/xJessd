@@ -11,6 +11,8 @@ I'm currently undertaking an intensive 12 week _nology course. You can view my [
 
 💬 Ask me about some anime and manga 📖
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **xJessD/xJessd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
