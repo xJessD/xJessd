@@ -12,6 +12,13 @@ I'm currently undertaking an intensive 12 week _nology course. You can view my [
 💬 Ask me about some anime and manga 📖
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   7 mins          ████████████████████████▒   97.78 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
