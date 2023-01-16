@@ -14,7 +14,7 @@ I'm currently undertaking an intensive 12 week _nology course. You can view my [
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   31 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
