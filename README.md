@@ -14,12 +14,12 @@ I'm currently undertaking an intensive 12 week _nology course. You can view my [
 <!--START_SECTION:waka-->
 
 ```text
-Java         47 mins         ██████████▒░░░░░░░░░░░░░░   41.14 %
-JavaScript   32 mins         ███████░░░░░░░░░░░░░░░░░░   27.99 %
-CSS          14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
-Properties   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-TypeScript   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-XML          5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Java         47 mins         ██████████████▒░░░░░░░░░░   57.08 %
+CSS          14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
+Properties   8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
+TypeScript   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+XML          5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+Markdown     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
 ```
 
 <!--END_SECTION:waka-->
