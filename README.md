@@ -14,7 +14,8 @@ I'm currently undertaking an intensive 12 week _nology course. You can view my [
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java         4 mins          █████████████▓░░░░░░░░░░░   54.59 %
+JavaScript   3 mins          ███████████▒░░░░░░░░░░░░░   45.41 %
 ```
 
 <!--END_SECTION:waka-->
