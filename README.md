@@ -1,15 +1,14 @@
 ## Hi there 👋
 I'm Jess! 
-I'm currently undertaking an intensive 12 week _nology course. You can view my [portfolio here](https://xjessd.github.io/).
+I've recently comepleted _nology's 12 week intensive software development course. You can view my [portfolio here](https://xjessd.github.io/).
 
-
-🔭 I’m currently working on a learning management platform for my client project.
-
-🌱 I’m currently learning NestJS & Mikro-Orm!
+🌱 I’m currently learning testing automation using Testng and Selenium!
 
 ❤️ I really enjoy HTML & CSS. And I might be a bit Android biased (hence my [FakeOS](https://xjessd.github.io/fakeOS/) project).
 
 💬 Ask me about some anime and manga 📖
+
+📨 You can contact me on [LinkedIn here](https://www.linkedin.com/in/xjessd/).
 
 <!--START_SECTION:waka-->
 
