@@ -11,6 +11,13 @@ I've recently comepleted _nology's 12 week intensive software development course
 📨 You can contact me on [LinkedIn here](https://www.linkedin.com/in/xjessd/).
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   36 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀   89.14 %
+Java         4 mins          ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.39 %
+CSS          0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.46 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
