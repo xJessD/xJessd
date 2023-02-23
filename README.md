@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Jess! 
-I've recently comepleted _nology's 12 week intensive software development course. You can view my [portfolio here](https://xjessd.github.io/).
+I've recently completed _nology's 12 week intensive software development course. You can view my [portfolio here](https://xjessd.github.io/).
 
 🌱 I’m currently learning testing automation using Testng and Selenium!
 
