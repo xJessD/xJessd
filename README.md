@@ -1,10 +1,13 @@
 ## Hi there 👋
 I'm Jess! 
-I've recently completed _nology's 12 week intensive software development course. You can view my [portfolio here](https://xjessd.github.io/).
 
-🌱 I’m currently learning testing automation using Testng, [Selenium](https://github.com/xJessD/test-automation-practice) and the [Cucumber framework](https://github.com/xJessD/selenium-cucumber)!
+💻 I've recently completed my Diploma of IT (Accelerated) at UTS College with a 6.1 / 7 GPA and will be continuing into the 2nd Year of a Bachelor of Computing Science at UTS! Very exciting!
 
-❤️ I really enjoy HTML & CSS. And I might be a bit Android biased (hence my [FakeOS](https://xjessd.github.io/fakeOS/) project).
+🌱 You can view an old [portfolio here](https://xjessd.github.io/), that was created when completing  _nology's 12 week intensive software development course.
+
+❤️ I always enjoyed HTML & CSS, but more recently I've come to love working with Java and SQL. 
+
+📱 Android is my preferred mobile OS hence my [FakeOS](https://xjessd.github.io/fakeOS/) project.
 
 💬 Ask me about some anime and manga 📖
 
@@ -23,5 +26,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱
 [![Jess's GitHub stats](https://github-readme-stats.vercel.app/api?username=xJessD&theme=gotham)](https://github.com/xJessD/github-readme-stats)
+
+
+----------------------------------------------- Last Ver
+## Hi there 👋
+I'm Jess! 
+I've recently completed _nology's 12 week intensive software development course. You can view my [portfolio here](https://xjessd.github.io/).
+
+🌱 I’m currently learning testing automation using Testng, [Selenium](https://github.com/xJessD/test-automation-practice) and the [Cucumber framework](https://github.com/xJessD/selenium-cucumber)!
+
+❤️ I really enjoy HTML & CSS. And I might be a bit Android biased (hence my [FakeOS](https://xjessd.github.io/fakeOS/) project).
+
+💬 Ask me about some anime and manga 📖
+
+📨 You can contact me on [LinkedIn here](https://www.linkedin.com/in/xjessd/).
+
 -->
