@@ -1,11 +1,9 @@
 ## Hi there 👋
 I'm Jess! 
 
-💻 I've recently completed my Diploma of IT (Accelerated) at UTS College with a 6.1 / 7 GPA and will be continuing into the 2nd Year of a Bachelor of Computing Science at UTS! Very exciting!
+💻 I've completed my Diploma of IT (Accelerated) at UTS College with a 6.1 / 7 GPA in 2024 and am currently in my 2nd Year of a Bachelor of Computing Science at UTS with major in Enterprise System Development. 
 
 🌱 You can view an old [portfolio here](https://xjessd.github.io/), that was created when completing  _nology's 12 week intensive software development course.
-
-❤️ I always enjoyed HTML & CSS, but more recently I've come to love working with Java and SQL. 
 
 📱 Android is my preferred mobile OS hence my [FakeOS](https://xjessd.github.io/fakeOS/) project.
 
